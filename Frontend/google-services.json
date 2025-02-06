@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "598047171569",
+    "project_id": "additusfit-bb636",
+    "storage_bucket": "additusfit-bb636.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:598047171569:android:da45a7716c94b27bb3da50",
+        "android_client_info": {
+          "package_name": "com.additus"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6_RsDQr1YrOJBLE4exWLKzlpowclialA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
